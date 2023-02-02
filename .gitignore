@@ -1,0 +1,5 @@
+# ignore vscode workspace
+*.code-workspace
+
+# ignore any image files to prevent large uploads
+*.jpg 
