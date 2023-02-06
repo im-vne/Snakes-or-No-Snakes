@@ -3,3 +3,6 @@
 
 # ignore any image files to prevent large uploads
 *.jpg 
+
+# ignore saved models (too large)
+*cnn_v*/
