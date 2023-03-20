@@ -1,2 +1,3 @@
 # Snakes-or-No-Snakes
-Create a model that can determine whether there is a snake in the images
+
+For data exploration and viewing loaded images, see the exploratory analysis notebook. For model building, training, and evaluation see the models notebook.
